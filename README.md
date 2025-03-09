@@ -2,7 +2,7 @@
 
 ## I'm just a beginner QA Engineer
 
-### Languages & Tools
+### Tools
 ![Jira](https://img.shields.io/badge/Jira-2F3136?style=for-the-badge&logoColor=216dfe&logo=jira)
 ![Trello](https://img.shields.io/badge/Trello-2F3136?style=for-the-badge&logoColor=198cf9&logo=trello)
 ![Figma](https://img.shields.io/badge/Figma-2F3136?style=for-the-badge&logoColor=fd7a31&logo=figma)
