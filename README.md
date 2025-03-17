@@ -10,8 +10,14 @@
 ![Postman](https://img.shields.io/badge/Postman-2F3136?style=for-the-badge&logoColor=fd7a31&logo=postman)
 ![SQL](https://img.shields.io/badge/SQL-2F3136?style=for-the-badge&logoColor=02c0ff&logo=mysql)
 
+### Testing documentation
+
+- [Postman Collections](https://github.com/Ro-on/Postman-Collections)
+
 ### Follow me
 [![X](https://img.shields.io/badge/X-2F3136?style=for-the-badge&logoColor=090909&logo=x)](https://x.com/Valeroon12)
 [![Facebook](https://img.shields.io/badge/Facebook-2F3136?style=for-the-badge&logoColor=0258ff&logo=Facebook)](https://www.facebook.com/zibro.valera/)
 [![Telegram](https://img.shields.io/badge/Telegram-2F3136?style=for-the-badge&logoColor=02c0ff&logo=Telegram)](https://t.me/LowPolyRoon)
 [![Discord](https://img.shields.io/badge/Discord-2F3136?style=for-the-badge&logoColor=5933c3&logo=Discord)](https://discordapp.com/users/ro.on.)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ro-on&show_icons=true&theme=radical&hide=prs,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
