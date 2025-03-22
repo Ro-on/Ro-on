@@ -13,6 +13,8 @@
 ### Testing documentation
 
 - [Postman Collections](https://github.com/Ro-on/Postman-Collections)
+- [Testing Documentation](https://github.com/Ro-on/Testing-documentation)
+- [General](https://github.com/Ro-on/General)
 
 ### Follow me
 [![X](https://img.shields.io/badge/X-2F3136?style=for-the-badge&logoColor=090909&logo=x)](https://x.com/Valeroon12)
