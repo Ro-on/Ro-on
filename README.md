@@ -13,7 +13,7 @@
 - [General](https://github.com/Ro-on/General)
 
 ### Follow me
-[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/in.png" width="40" height="40">](www.linkedin.com/in/valeroon)
+[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/in.png" width="40" height="40">](https://www.linkedin.com/in/valeroon/)
 [<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/tg.png" width="40" height="40">](https://t.me/LowPolyRoon) 
 [<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/x.png" width="40" height="40">](https://x.com/Valeroon12) 
 [<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/fb.png" width="40" height="40">](https://www.facebook.com/zibro.valera/) 
