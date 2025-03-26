@@ -3,7 +3,7 @@
 ## I'm just a beginner QA Engineer
 
 ### Tools
-[![Jira](https://github.com/Ro-on/Ro-on/blob/main/assets/jira.png)]
+[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/jira.png" width="50" height="50">]
 
 ### Testing documentation
 
