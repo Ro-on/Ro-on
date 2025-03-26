@@ -5,8 +5,14 @@
 ### Tools
 <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/jira.png" width="40" height="40">
 <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/trello.png" width="40" height="40">
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/f12.png" width="40" height="40">
 <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/figma.png" width="40" height="40">
 <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/postman.png" width="40" height="40">
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/mysql.png" width="40" height="40">
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/as.png" width="40" height="40">
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/git.png" width="40" height="40">
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/bash.png" width="40" height="40">
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/vs.png" width="40" height="40">
 
 
 ### Testing documentation
