@@ -13,7 +13,10 @@
 - [General](https://github.com/Ro-on/General)
 
 ### Follow me
-[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/in.png" width="40" height="40">](www.linkedin.com/in/valeriya-zibrova-862491200)
-[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/tg.png" width="40" height="40">](https://t.me/LowPolyRoon) [<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/x.png" width="40" height="40">](https://x.com/Valeroon12) [<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/fb.png" width="40" height="40">](https://www.facebook.com/zibro.valera/) [<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/ds.png" width="40" height="40">](https://discordapp.com/users/ro.on.)
+[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/in.png" width="40" height="40">](www.linkedin.com/in/valeroon)
+[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/tg.png" width="40" height="40">](https://t.me/LowPolyRoon) 
+[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/x.png" width="40" height="40">](https://x.com/Valeroon12) 
+[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/fb.png" width="40" height="40">](https://www.facebook.com/zibro.valera/) 
+[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/ds.png" width="40" height="40">](https://discordapp.com/users/ro.on.)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ro-on&show_icons=true&theme=radical&hide=prs,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
