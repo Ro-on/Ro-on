@@ -13,6 +13,6 @@
 - [General](https://github.com/Ro-on/General)
 
 ### Follow me
-<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/in.png" width="40" height="40"> <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/tg.png" width="40" height="40"> <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/x.png" width="40" height="40">(https://x.com/Valeroon12) <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/fb.png" width="40" height="40"> <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/ds.png" width="40" height="40">
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/in.png" width="40" height="40"> <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/tg.png" width="40" height="40"> [<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/x.png" width="40" height="40">](https://x.com/Valeroon12) <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/fb.png" width="40" height="40"> <img src="https://github.com/Ro-on/Ro-on/blob/main/assets/ds.png" width="40" height="40">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ro-on&show_icons=true&theme=radical&hide=prs,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
