@@ -3,7 +3,11 @@
 ## I'm just a beginner QA Engineer
 
 ### Tools
-[<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/jira.png" width="50" height="50">]
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/jira.png" width="40" height="40">
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/trello.png" width="40" height="40">
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/figma.png" width="40" height="40">
+<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/postman.png" width="40" height="40">
+
 
 ### Testing documentation
 
