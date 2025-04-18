@@ -11,6 +11,7 @@
 - [Postman Collections](https://github.com/Ro-on/Postman-Collections)
 - [Testing Documentation](https://github.com/Ro-on/Testing-documentation)
 - [General](https://github.com/Ro-on/General)
+- [Automation](https://github.com/Ro-on/Automation)
 
 ### Follow me
 [<img src="https://github.com/Ro-on/Ro-on/blob/main/assets/in.png" width="40" height="40">](https://www.linkedin.com/in/valeroon/)
